@@ -1,0 +1,16 @@
+node_modules
+.next
+.env*.local
+.DS_Store
+*.log
+
+# Development logs
+logs/
+
+# Lock files (if switching package managers)
+package-lock.json
+yarn.lock
+
+# Cache directories
+node_modules/.cache
+.next/cache
