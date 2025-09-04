@@ -1,7 +1,7 @@
 ---
-title: "Pricing - Your Site Title"
-description: "Your pricing page description goes here"
-pageTitle: "Our Pricing"
+title: "The Experience - Portraits by Marie"
+description: "Discover the unique photography experience with Marie"
+pageTitle: "The Experience"
 ---
 
-Your content goes here. Create more components to add more content.
+Every portrait session is designed around you. We'll take the time to capture exactly what you need - from classic headshots to full-body brand shots - creating a complete image library that works across all your marketing needs.
